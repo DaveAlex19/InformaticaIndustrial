@@ -2,6 +2,8 @@
 #define btnIN A0 //Entrada analogica
 #define LED 10   //Salida digital
 
+//Un cambio...
+
 enum funMode
 {
   OFF,
